@@ -2,7 +2,7 @@
 
 ###### Cursando Engenharia de Software  <i> (Canaã dos Carajás, PA - Brasil) <i/>
 
-[![GitHub Streak](https://user-images.githubusercontent.com/107488620/183304038-2788ab5d-4c02-45e9-a724-990f27061c54.png) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eryckferreira&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eryckferreira&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Conecte-se comigo
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:eryck.p.ferreira@gmail.com)
