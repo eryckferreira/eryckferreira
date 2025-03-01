@@ -16,7 +16,7 @@
 
 #### ♟️ Estou estudando atualmente:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-Python -
+Python
 
 #### Banco de Dados e Cloud Computing Service:
 ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
