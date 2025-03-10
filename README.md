@@ -4,6 +4,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eryckferreira&theme=dark)
  
+
 ### Conecte-se comigo
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:eryck.p.ferreira@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eryckferreira/)
