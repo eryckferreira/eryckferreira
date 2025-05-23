@@ -2,6 +2,7 @@
 
 ###### Cursando Engenharia de Software  <i> (Canaã dos Carajás, PA - Brasil) <i/>
 
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eryckferreira&theme=dark)
 
 ### Conecte-se comigo
