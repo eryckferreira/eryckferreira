@@ -46,13 +46,13 @@
 ### 🔥 Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=PICHAU&theme=github-dark&hide_border=true&locale=pt_BR" />
+  <img src="https://streak-stats.demolab.com?user=eryckferreira&theme=github-dark&hide_border=true&locale=pt_BR" />
 </div>
 
 ---
 
 ### 📬 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://linkedin.com/in/SEU_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/-Gmail-000?&logo=Gmail&logoColor=EA4335)](mailto:SEU_EMAIL@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=Instagram&logoColor=E4405F)](https://instagram.com/SEU_INSTAGRAM)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/eryckferreira/)
+[![Gmail](https://img.shields.io/badge/-Gmail-000?&logo=Gmail&logoColor=EA4335)](mailto:eryck.p.ferreira@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=Instagram&logoColor=E4405F)](https://www.instagram.com/er.datasci/)
