@@ -6,29 +6,29 @@
 
 ### 👨‍💻 Sobre mim
 
-- 🎓 Estudante de **Engenharia de Software**
-- 🐍 Fazendo curso de **Python Full Stack**
-- 💡 Aprendendo e construindo projetos do zero
-- 🚀 Focado em evoluir como desenvolvedor
+#### 🎓 Estudante de **Engenharia de Software**
+#### 🐍 Fazendo curso de **Python Full Stack**
+#### 💡 Aprendendo e construindo projetos do zero
+#### 🚀 Focado em evoluir como desenvolvedor
 
 ---
-
-### 🗣️ Linguagens
-
+ 
+### 🎨 Front-end
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3&logoColor=264DE4)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap&logoColor=7952B3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap&logoColor=7952B3)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+
+### ⚙️ Back-end
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
+### 📊 Dados
 
----
 
-### 🛠️ Ferramentas & Tecnologias
-
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code&logoColor=007ACC)
+### ☁️ Nuvem & DevOps
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git) 
+![Github](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)  
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code&logoColor=007ACC)
 
 ---
 
