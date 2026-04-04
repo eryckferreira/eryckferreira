@@ -20,7 +20,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 
 ### ⚙️ Back-end
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python) - em andamento
 
 ### 📊 Dados
 
